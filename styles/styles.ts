@@ -1,3 +1,3 @@
 export const COLORS = {
-    darkblue: "#02012b"
+    darkblue: "#393841FF"
 }

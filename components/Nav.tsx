@@ -9,7 +9,7 @@ const Nav = () => {
   return (
     <>
         <Box sx={{display:"flex", justifyContent: "space-around", margin: "2rem 0"}}>
-            <Image src={logo} alt="logo" height={110} width={140} />
+            <Image src={logo} alt="logo" height={30} width={50} />
             <Box>Toggle Units</Box>
         </Box>
       
